@@ -24,6 +24,13 @@ CORE JAVA
 
 12.What happen if any thread gives you dump and how can we know that if you have  more than 1000 thread?
 
+13. Program this question which will clear your understanding on Multithreading....
+    ----> Two Producers generating numbers at random intervals of time in parallel in Arithmetic Progression [Example: (3,6,9...), (5,10,15,...), etc]
+         A separate printer should be printing these numbers on Console. Printer can only print during random available print windows. 
+         During available window, printer should print in LIFO order.
+         
+
+
 
 SQL :
 —-----------------------------------------------------------------------------------------------------------------------
@@ -39,8 +46,22 @@ Schema : empname| empid|mgrname
 
 Deadlock question overview ?
 
-Schema DESIGN (Asked if the company is Product based in a separate round )
- Schema design of BookmyShow ?
+Group By concept and when to use ??
+
+
+
+VVI>>  Schema DESIGN (Asked if the company is Product based in a separate round )
+       Schema design of BookmyShow ?
+      
+      Design Watsapp ?Main focus of inerviewer  will be on scalability?
+      
+      Design Google Doc {Editor should have al right else ask request} ? Schema Design along with Code in any OOP Language?
+      
+      
+      
+     
+ 
+ 
 
 CODING
 —------------------------------------------------------------------------------------------------------------------------
@@ -60,12 +81,29 @@ Implement Signle Linklist or Circular Linklist (Leetcode )
 
 Stone question (Every time it got broken in two pieces ).........
 
-Left and right ,top and Bottom  view of tree ?
+Left and right ,top and Bottom  view of tree ?{Mos asked in Amazon 2,3 round }
 
 Maximum sum subarray ?
 
 Maximum sum of subsequence of an array ?
 
-TWO SUM (VVVVIII)***********
+TWO SUM (VVVVIII)***********{VVI in terms of no of times it asked }
+
+Solve Question on Prefix sum ?{refer Leetcode or GFG }
+
+Question asked in Arcesium Last round :-
+ 
+ Given a tree and every node{node refer to employee of my previous company} is associated with some value which is performance index of employee.At the  time  of appraisal 
+ index calculated as average of all the child node including parent .Find the which node {employee } will get maximum appraisal. index can be positive and negative
+ 
+ 
+      1            avg        12.28
+    2     3        ---->  9.66    18.6   ----> Ans node 32
+  4  23 32 21            4    23  32  21
+
+
+
+
+
 
 
