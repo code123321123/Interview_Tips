@@ -1,0 +1,71 @@
+CORE JAVA 
+—-------------------------------------------------------------------------------------------
+1.What is the difference between Hashmap and flat hashMap ?
+
+2.Internal Archetecture of Hashmap using List or Linklist ?
+
+3. What happen if we insert duplicate in Hashmap?
+
+4. Difference between Hashset and LinkedHashSet and example ?
+
+5.Signleton Design Pattern ?? Code Mandatory? Explanation ?
+
+6. What is MVC Architecture?Just Explanation 
+
+7. OOPS all with example (Inheritence, polymorphism , Encapsulation)?
+
+8. What is Functional interface ?How it is benefited along with Abstract class counter question ?
+
+9.Java 8 features , Mandatory especially Lamda Expression ? How to filter even no from list type Question?
+ 
+10.Exception handling and multithreading , how can we utilise 2 thread and execute 100 thread using thread pooling details ?
+
+11.Type of exception and custom exception and how can we do it?
+
+12.What happen if any thread gives you dump and how can we know that if you have  more than 1000 thread?
+
+
+SQL :
+—-----------------------------------------------------------------------------------------------------------------------
+
+What are the type of join and explain each ?
+
+CRUD operation , explain ?
+
+Find the 2ndor nth  largest salary from employee table  without using LIMIT or you can use LIMIT both ?
+
+Find the manager name  of all the employee in the employee table ?
+Schema : empname| empid|mgrname
+
+Deadlock question overview ?
+
+Schema DESIGN (Asked if the company is Product based in a separate round )
+ Schema design of BookmyShow ?
+
+CODING
+—------------------------------------------------------------------------------------------------------------------------
+Find Square root (using Binary Search )
+
+Implement POW funditon ?
+
+In Sorted Rotated Array  find the index of particular element ?
+
+Print tree in zig-zag manner ?
+
+Find the intersection of Linklist?(can be asked in some different ways )
+
+Find the loop in a Linklist ?
+
+Implement Signle Linklist or Circular Linklist (Leetcode )
+
+Stone question (Every time it got broken in two pieces ).........
+
+Left and right ,top and Bottom  view of tree ?
+
+Maximum sum subarray ?
+
+Maximum sum of subsequence of an array ?
+
+TWO SUM (VVVVIII)***********
+
+
